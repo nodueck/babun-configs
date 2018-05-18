@@ -6,7 +6,7 @@ set laststatus=2 " show the status line all the time
 
 filetype off
 
-" no virual mode on mouse click
+" no virtual mode on mouse click
 set mouse-=a
 
 " tell vim to keep a backup file
